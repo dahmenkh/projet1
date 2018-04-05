@@ -1,0 +1,31 @@
+//to excecute shell scripts in windows
+https://git-scm.com/download/win
+
+https://stackoverflow.com/questions/4879025/creating-files-with-some-content-with-shell-script
+https://fileinfo.com/extension/c
+https://askubuntu.com/questions/38661/how-do-i-run-sh-files
+https://stackoverflow.com/questions/22911144/shell-script-make-directory-if-it-doesnt-exist
+https://unix.stackexchange.com/questions/31414/how-can-i-pass-a-command-line-argument-into-a-shell-script
+//case instruction
+https://www.shellscript.sh/case.html
+//case for multi values
+https://stackoverflow.com/questions/25481799/how-to-make-a-bash-switch-case-match-multiple-number-range-conditions
+//create file (like license)
+https://askubuntu.com/questions/319910/creating-a-file-with-some-content-in-shell-scripting
+
+//example of code
+https://www.programiz.com/
+//c
+https://www.programiz.com/c-programming/examples/print-sentence
+//c++
+https://www.programiz.com/cpp-programming/examples/print-sentence
+//python
+https://www.programiz.com/python-programming/examples/hello-world
+
+//Important!!
+//the help feature is not done yet
+//to excecute it it must be as follows: 
+./initdev.sh name parametre
+//there is no controle if the user enters a wrong/miss parametre
+//if you want, there is a way to move the comand ./initdev.sh to be just: initdev (move it to a certain folder in linux I forgot it)
+//only c,c++ and py are done
